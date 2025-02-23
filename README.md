@@ -13,6 +13,7 @@
             <ul>
                 <li><a href="#about">About</a></li>
                 <li><a href="#services">Services</a></li>
+                <li><a href="#benefits">Benefits</a></li>
                 <li><a href="#contact">Contact</a></li>
             </ul>
         </nav>
@@ -31,6 +32,21 @@
             <li>Mindfulness Coaching</li>
             <li>Yoga & Meditation</li>
             <li>Nutrition & Lifestyle Consulting</li>
+        </ul>
+    </section>
+    
+    <section id="benefits">
+        <h2>Benefits of Yoga</h2>
+        <ul>
+            <li>Sleep better</li>
+            <li>Increase energy</li>
+            <li>Improve posture</li>
+            <li>Increase mobility</li>
+            <li>Gain flexibility</li>
+            <li>Weight management</li>
+            <li>Learn to breathe</li>
+            <li>Become stronger</li>
+            <li>Find inner calmness</li>
         </ul>
     </section>
     
